@@ -1,0 +1,14 @@
+{
+  "run_id": "20260423_011933",
+  "seed": 42,
+  "in_colab": false,
+  "python_version": "3.10.20",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy_version": "2.2.5",
+  "pandas_version": "2.3.3",
+  "matplotlib_version": "3.10.8",
+  "project_root": "Outputs\\bb84_finite_key_phase_study_20260423_011933",
+  "figure_dir": "Outputs\\bb84_finite_key_phase_study_20260423_011933\\figures",
+  "table_dir": "Outputs\\bb84_finite_key_phase_study_20260423_011933\\tables",
+  "other_dir": "Outputs\\bb84_finite_key_phase_study_20260423_011933\\others"
+}

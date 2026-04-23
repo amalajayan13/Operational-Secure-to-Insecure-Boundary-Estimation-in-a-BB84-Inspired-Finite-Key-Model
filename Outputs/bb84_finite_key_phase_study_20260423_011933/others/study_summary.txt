@@ -1,0 +1,51 @@
+BB84 finite-key phase study: run summary
+============================================================
+Run ID: 20260423_011933
+Project root: Outputs\bb84_finite_key_phase_study_20260423_011933
+
+Study scope:
+- Operational boundary estimation from repeated endpoint simulations
+- Bootstrap uncertainty for secure-state probability boundary
+- Robustness checks across shot count and descriptive phase margin
+- Repeated stochastic scenario analysis with temporal uncertainty bands
+
+Key tables:
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_boundary_estimates.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_shot_count_robustness.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_phase_margin_robustness.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_scenario_summary.csv
+
+Key figures:
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\phase_boundary_with_uncertainty.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\transition_profiles_and_susceptibility.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\shot_count_boundary_dependence.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\phase_margin_sensitivity.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\scenario_psi_profiles.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\scenario_qber_profiles.png
+
+Interpretation:
+This run characterizes an operational secure-to-insecure boundary in a BB84-inspired finite-key model under disturbance, adversarial pressure, and implementation drift. Boundary estimates are obtained from repeated finite-sample simulations, uncertainty is quantified by bootstrap resampling, and robustness is examined with respect to shot count and descriptive phase-margin choice.
+
+Generated files:
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\phase_boundary_with_uncertainty.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\phase_margin_sensitivity.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\scenario_psi_profiles.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\scenario_qber_profiles.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\shot_count_boundary_dependence.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\figures\transition_profiles_and_susceptibility.png
+- Outputs\bb84_finite_key_phase_study_20260423_011933\others\.ipynb_checkpoints\run_manifest-checkpoint.json
+- Outputs\bb84_finite_key_phase_study_20260423_011933\others\run_manifest.json
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\endpoint_replicates.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\endpoint_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\phase_boundary_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\phase_margin_boundary_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\phase_margin_profiles.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\scenario_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\scenario_time_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\scenario_trajectory_replicates.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\shot_count_boundary_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_boundary_estimates.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_phase_margin_robustness.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_scenario_summary.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\table_shot_count_robustness.csv
+- Outputs\bb84_finite_key_phase_study_20260423_011933\tables\transition_profiles.csv
